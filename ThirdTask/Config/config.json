@@ -1,0 +1,7 @@
+{
+  "TimeSpan": 600,
+  "BaseUrl": "https://demoqa.com/",
+  "Browser": "Chrome",
+  "Incognito": 0, 
+  "ShowLogOnConsole": 0 
+}
